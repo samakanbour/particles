@@ -10,7 +10,7 @@ ion.sound.init({
     sounds: SOUNDS,
     path: "sounds/",    // set path to sounds
     multiPlay: true,    // play multiple sounds at once
-    volume: "0.8"
+    volume: "0.5"
 });
 
 function Particle( x, y, radius ) {
